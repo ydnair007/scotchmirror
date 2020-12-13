@@ -1,7 +1,7 @@
 
 
 # Here is Your Drive Folder Name You can Replace it with Your Desire name(Optional)
-drive_folder_name = "MoviEzonLy_DRIVE"
+drive_folder_name = "SmoothScotch"
 
 
 # Enter Your Mega email And Pass (Required)
@@ -9,10 +9,10 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hello {}  \n\n*I'm a Simple Drive Uploader Bot*.\nPlease Authorise me using /auth \n\n For more info > /help \n\n Join @MovieZonLysuPpoRt for any queries!"
+START = " Hello {}  \n\n*I'm a Sexy Simp Uploader Bot*.\nPlease Authorise me using /auth \n\n For more info > /help \n\n Ask @SmoothScotch for any queries!"
 
 HELP = """   <b>AUTHORISING THE BOT</b> 
-       Use  /auth Command to generate your Google Drive Token. Copy and Send It To Bot.\n\n
+       Use /auth Command to generate your Google Drive Token. Copy and Send It To Bot.\n\n
 <b> To change your drive account;</b> \n
         You Can Use /revoke command\n\n
 <b>Bot Features;</b> \n
